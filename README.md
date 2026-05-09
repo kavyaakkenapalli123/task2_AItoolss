@@ -426,20 +426,3 @@ Focus on:
 ```
 
 ---
-
-# 20. README Generation
-
-## Prompt
-```text
-Generate a professional GitHub README.md for a UX case study project called WhatsApp AI Smart Recall.
-
-Include:
-- overview
-- problem discovery
-- feature proposal
-- UX goals
-- user flow
-- screenshots section
-- AI usage
-- final impact
-```
